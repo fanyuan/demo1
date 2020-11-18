@@ -1,0 +1,25 @@
+       maven {
+                    url 'http://maven.aliyun.com/nexus/content/groups/public/'
+                }
+       maven {
+            url "https://maven.aliyun.com/repository/google"
+        }
+        maven {
+                    url 'http://maven.aliyun.com/nexus/content/repositories/jcenter'
+                }        
+        maven { url 'http://maven.google.com' }
+        maven { url 'https://bintray.com'}
+        maven { url 'https://jcenter.bintray.com'}
+        
+
+https://mvnrepository.com/artifact/javax.annotation?__cf_chl_captcha_tk__=cad7ebc0e0b8af67a1ef0063f01c7e43f5ca5a42-1585916047-0-ARCMMh9NoVzfXMPShIDVxD0WTOSu9Um60U8H0lzD823BVulXBsEyhPn068N4WVfgINmsGrasjgQOjzZIWQQs_CzwOlnFItjFK74-y7640NPBVvIjQsEasP9HEnKHucOmB_Bo_T4AOahKvANaMRbCcvNydvzKBt-YPtiz9-_4KWH2FToksxBjJmZoXhKBGMWkeiQRe7rGdjMsSN01TUS7j7D7Mtatovfv-De7FyZP241MqQCaSlFrQYkwFvNVKzMnGhzE_EkN1ph0SWxJs25oRXAuvJ5BRDgSrjxD9bagWGE1nqc5r-XYEAH1wFt65IC5qmgPsrMoIfKC-uwDEZ2awf-1F19MdivAQOEHtZovZZGYkzHcYiz1g8OhSW8tHMBJH_E5h0t-HxP1nCg7gBAOpuU
+
+
+https://blog.csdn.net/mao520741111/article/details/48374367
+
+
+https://www.jianshu.com/p/3f7a858cfc04
+
+https://www.jianshu.com/p/bbb946ab1b2b
+
+https://maven.aliyun.com/mvn/view
